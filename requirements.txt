@@ -1,5 +1,5 @@
 efficientnet-pytorch==0.6.3
-numpy==1.19.0
+numpy==1.22.0
 Pillow==7.2.0
 PyYAML==5.3.1
 six==1.15.0
